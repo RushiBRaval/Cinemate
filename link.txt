@@ -1,0 +1,13 @@
+06e2e60d1a99fccae1943eefde870e7c
+
+Search:-https://api.themoviedb.org/3/search/movie?api_key=06e2e60d1a99fccae1943eefde870e7c&language=en-US&query={movie_name}
+
+Individual:- https://api.themoviedb.org/3/movie/{movie_id}?api_key=06e2e60d1a99fccae1943eefde870e7c
+
+Now_playing:-https://api.themoviedb.org/3/movie/now_playing?api_key=06e2e60d1a99fccae1943eefde870e7c
+
+Popular:- https://api.themoviedb.org/3/movie/popular?api_key=06e2e60d1a99fccae1943eefde870e7c
+
+Top_Rated:- https://api.themoviedb.org/3/movie/top_rated?api_key=06e2e60d1a99fccae1943eefde870e7c
+
+Upcoming:-https://api.themoviedb.org/3/movie/upcoming?api_key=06e2e60d1a99fccae1943eefde870e7c
